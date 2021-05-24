@@ -1,55 +1,5 @@
 [
 {
-"Name": "Cooldown",
-"Description": "Make your commands have a delay in between",
-"Creator": "STR1KE#6182"
-}, 
-{
-"Name": "Loop",
-"Description": "Loop your commands and create complex systems",
-"Creator": "STR1KE#6182"
-}, 
-{
-"Name": "CheckIfNSFW",
-"Description": "Checks if the channel is categorized as an 18+ nsfw channel",
-"Creator": "JopGamerNL#3526"
-}, 
-{
-"Name": "DateAndTime",
-"Description": "Gets and uses the current date / time",
-"Creator": "JopGamerNL#3526"
-}, 
-{
-"Name": "SaveVar",
-"Description": "creates vars that get saved to a File, they are created to work almost exactly the same as normal vars but SaveVars will keep the Value even after a Bot Restart",
-"Creator": "JopGamerNL#3526"
-}, 
-{
-"Name": "consolelog",
-"Description": "Logs information for you to see on the command prompt / terminal",
-"Creator": "STR1KE#6182"
-}, 
-{
-"Name": "contains",
-"Description": "Checks if a value contains another value",
-"Creator": "STR1KE#6182"
-}, 
-{
-"Name": "getvideothumbnail",
-"Description": "Gets the thumbnail image of a youtube video",
-"Creator": "STR1KE#6182"
-}, 
-{
-"Name": "isNaN",
-"Description": "Checks if a value is NaN (Not a Number or Doesnt Exist)",
-"Creator": "STR1KE#6182"
-}, 
-{
-"Name": "restart",
-"Description": "Restarts the bot",
-"Creator": "STR1KE#6182"
-}, 
-{
 "Name": "uptime",
 "Description": "Checks the current bot's uptime",
 "Creator": "STR1KE#6182"
